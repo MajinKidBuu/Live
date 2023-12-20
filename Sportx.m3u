@@ -1,4 +1,6 @@
 #EXTM3U xt-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slHJ4J6.png" group-title="UK",BFBS Sport
 https://bilibili.com/id=283
