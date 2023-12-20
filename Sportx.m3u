@@ -1,27 +1,53 @@
 ﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTINF:-1 tvg-name="Sky Sports Arena"tvg-id="SkySp.Arena.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsArena.png"group-title="UK",Sky Sports Arena
+#EXTINF:-1 tvg-name="Sky Sports Arena"tvg-id="SkySportsArena.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsArena.png"group-title="UK",Sky Sports Arena
 http://kmkus.wanicelife.com:8880/48mss260012/94288835/2902
-#EXTINF:-1 tvg-name="Sky Sports Box Office"tvg-id="EUROSPORT.1.BRITISH.eurosport"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsBoxOffice.png"group-title="UK",Sky Sports Box Office
-http://kmkus.wanicelife.com:8880/48mss260012/94288835/2902
-#EXTINF:-1 tvg-name="Sky Sports Cricket"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsCricket.png"group-title="UK",Sky Sports Cricket
-https://bilibili.com/125
-#EXTINF:-1 tvg-name="Sky Sports F1"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsF1.png"group-title="UK",Sky Sports F1
-https://bilibili.com/126
-#EXTINF:-1 tvg-name="Sky Sports Football"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsFootball.png"group-title="UK",Sky Sports Football
-https://bilibili.com/127
-#EXTINF:-1 tvg-name="Sky Sports Golf"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsGolf.png"group-title="UK",Sky Sports Golf
-https://bilibili.com/128
-#EXTINF:-1 tvg-name="Sky Sports Main Event"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsMainEvent.png"group-title="UK",Sky Sports Main Event
-https://bilibili.com/129
-#EXTINF:-1 tvg-name="Sky Sports Mix"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsMix.png"group-title="UK",Sky Sports Mix
-https://bilibili.com/130
-#EXTINF:-1 tvg-name="Sky Sports News"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsNews.png"group-title="UK",Sky Sports News
-https://bilibili.com/131
-#EXTINF:-1 tvg-name="Sky Sports NFL"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsNFL.png"group-title="UK",Sky Sports NFL
-https://bilibili.com/132
-#EXTINF:-1 tvg-name="Sky Sports Premier League"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsPremierLeague.png"group-title="UK",Sky Sports Premier League
-https://bilibili.com/133
-#EXTINF:-1 tvg-name="Sky Sports Racing"tvg-id="UK"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/SkySports/SkySportsRacing.png"group-title="UK",Sky Sports Racing
-https://bilibili.com/135
+#EXTINF:-1 tvg-name="Sky Sports Box Office"tvg-id="SkySportsBoxOffice.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsBoxOffice.png"group-title="UK",Sky Sports Box Office
+https://123123.com
+#EXTINF:-1 tvg-name="Sky Sports Cricket"tvg-id="SkySportsCricket.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsCricket.png"group-title="UK",Sky Sports Cricket
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2879
+#EXTINF:-1 tvg-name="Sky Sports F1"tvg-id="SkySportsF1.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsF1.png"group-title="UK",Sky Sports F1
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2876
+#EXTINF:-1 tvg-name="Sky Sports Football"tvg-id="SkySportsFootball.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsFootball.png"group-title="UK",Sky Sports Football
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2870
+#EXTINF:-1 tvg-name="Sky Sports Golf"tvg-id="SkySportsGolf.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsGolf.png"group-title="UK",Sky Sports Golf
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2878
+#EXTINF:-1 tvg-name="Sky Sports Main Event"tvg-id="SkySportsMainEvent.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsMainEvent.png"group-title="UK",Sky Sports Main Event
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2881
+#EXTINF:-1 tvg-name="Sky Sports Mix"tvg-id="SkySportsMix.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsMix.png"group-title="UK",Sky Sports Mix
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2882
+#EXTINF:-1 tvg-name="Sky Sports News"tvg-id="SkySportsNews.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsNews.png"group-title="UK",Sky Sports News
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2875
+#EXTINF:-1 tvg-name="Sky Sports NFL"tvg-id="SkySportsNFL.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsNFL.png"group-title="UK",Sky Sports NFL
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2880
+#EXTINF:-1 tvg-name="Sky Sports Premier League"tvg-id="SkySportsPremierLeague.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsPremierLeague.png"group-title="UK",Sky Sports Premier League
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/2877
+#EXTINF:-1 tvg-name="Sky Sports Racing"tvg-id="SkySportsRacing.uk"tvg-logo="https://raw.githubusercontent.com/MajinKidBuu/Live/main/Logos/UK/SkySportsRacing.png"group-title="UK",Sky Sports Racing
+http://kmkus.wanicelife.com:8880/48mss260012/94288835/28741
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
 
