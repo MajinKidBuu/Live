@@ -1,5 +1,5 @@
 ﻿#EXTM3U xt-tvg-url="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1 tvg-name="Sky Sports Arena"tvg-id="9517"tvg-logo="https://github.com/MajinKidBuu/Live/blob/main/Logos/SkySports/SkySportsArena.svg"group-title="UK",Sky Sports Arena
+#EXTINF:-1 tvg-name="Sky Sports Arena"tvg-id="SkySp.Arena.uk"tvg-logo="https://github.com/MajinKidBuu/Live/blob/main/Logos/SkySports/SkySportsArena.svg"group-title="UK",Sky Sports Arena
 http://kmkus.wanicelife.com:8880/48mss260012/94288835/2902
 #EXTINF:-1 tvg-name="Sky Sports Box Office"tvg-id="UK"tvg-logo="https://github.com/MajinKidBuu/Live/blob/main/Logos/SkySports/Test.svg"group-title="UK",Sky Sports Box Office
 https://bilibili.com/124
