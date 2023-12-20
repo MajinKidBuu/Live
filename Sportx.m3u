@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
+#EXTM3U xt-url-tvg="https://epg.pw/xmltv/epg.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
